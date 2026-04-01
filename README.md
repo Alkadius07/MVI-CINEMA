@@ -3,7 +3,7 @@
 Website jadwal nonton bareng virtual untuk komunitas **Mobian Vtuber Indonesia (MVI)** di Discord.
 
 ## 🌐 Live Demo
-👉 [alkadius07.github.io/MVI-CINEMA](https://alkadius07.github.io/MVI-CINEMA/)
+👉 [alka-id.github.io/MVI-CINEMA](https://alka-id.github.io/MVI-CINEMA/)
 
 ## 📌 Tentang Proyek
 MVI Cinema adalah event cinema virtual yang memungkinkan 
@@ -23,9 +23,6 @@ melalui Theater Room di Discord.
 - CSS
 - JavaScript (basic)
 - GitHub Pages (Deployment)
-
-## 📷 Screenshot
-![Preview](screenshot.png)
 
 ## 👤 Developer
 **Alka** — [@alkadius07](https://github.com/alkadius07)
