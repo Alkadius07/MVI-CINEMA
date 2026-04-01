@@ -19,9 +19,9 @@ melalui Theater Room di Discord.
 - Desain responsif dengan tema dark blue
 
 ## 🛠️ Teknologi
-- HTML5
-- CSS3
-- JavaScript
+- HTML
+- CSS
+- JavaScript (basic)
 - GitHub Pages (Deployment)
 
 ## 📷 Screenshot
