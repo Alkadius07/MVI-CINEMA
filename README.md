@@ -31,4 +31,4 @@ melalui Theater Room di Discord.
 **Alka** — [@alkadius07](https://github.com/alkadius07)
 
 ---
-© 2026 Mobian Vtuber Indonesia · All rights reserved
+
